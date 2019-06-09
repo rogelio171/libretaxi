@@ -4,13 +4,13 @@
 </a>
 </div>
 
-[![Patreon](https://img.shields.io/badge/back_on-patreon-red.svg)](https://www.patreon.com/libretaxi)
+Support project on Patreon: [https://www.patreon.com/libretaxi](https://www.patreon.com/libretaxi)
 
-## LibreTaxi: open source alternative for Uber/Lyft with the focus on social change, freedom, delivering taxi service through technology to all people around the world
+## LibreTaxi - ridesharing jailbreak (open source Uber alternative PoC)
 
 LibreTaxi makes taxis affordable again by completely removing all layers in between. Passengers pay with cash and get connected with drivers directly, where LibreTaxi is a thin layer allowing to negotiate the price before order is confirmed. No registration/approval is required. Less regulations.
 
-* Available at [@libretaxi_bot](https://telegram.me/libretaxi_bot)
+* Demo available at [@libretaxi_bot](https://telegram.me/libretaxi_bot)
 * Also see [LibreTaxi FAQ](doc/FAQ.md)
 
 ## Implementation details
@@ -61,6 +61,7 @@ Client (Telegram) support: iOS, Android, macOS desktop client, web (can also wor
 * [Contributing](doc/CONTRIBUTING.md)
 * [Add translation](doc/TRANSLATE.md)
 * [Debugging](doc/DEBUGGING.md)
+* [Using Vagrant](doc/VAGRANT.md)
 
 ## Linux tweaks
 
@@ -70,9 +71,7 @@ This package is using unicode emojis. [Click here](https://github.com/eosrei/emo
 
 Here is how you can help:
 
-* Donate from [LibreTaxi.org](http://libretaxi.org) - scroll down for link.
+* Support project on Patreon: [https://www.patreon.com/libretaxi](https://www.patreon.com/libretaxi)
 * BTC: `1HoUX4UtYPZUUQekAmyYpr42Z9dV9kLke3`
 * ETC: `0x01645791d038Ff07EcB95929448bd513D9C73cc4`
 * LTC: `LajxywwPMtL5P2s5oj7dGmcgmVhEc9R7gF`
-
-Or just spread the word and contribute to the project!
